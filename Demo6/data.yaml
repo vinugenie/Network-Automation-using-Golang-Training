@@ -1,0 +1,25 @@
+router:
+- hostname: XE-1
+  mgmt: 192.168.124.11
+  platform: cisco_iosxe
+  strictkey: false
+  username: admin
+  password: admin
+- hostname: NX-2
+  mgmt: 192.168.124.12
+  platform: cisco_nxos
+  strictkey: false
+  username: admin
+  password: admin
+- hostname: XE-4
+  mgmt: 192.168.124.14
+  platform: cisco_iosxe
+  strictkey: false
+  username: admin
+  password: admin
+- hostname: XE-5
+  mgmt: 192.168.124.15
+  platform: cisco_iosxe
+  strictkey: false
+  username: admin
+  password: admin

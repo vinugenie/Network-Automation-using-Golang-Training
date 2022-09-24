@@ -1,0 +1,22 @@
+{
+    "routers": [
+        {
+            "hostname": "XE-1",
+            "ip": "192.168.124.11",
+            "user": "admin",
+            "pwd": "admin"
+        },
+        {
+            "hostname": "NX-2",
+            "ip": "192.168.124.12",
+            "user": "admin",
+            "pwd": "admin"
+        },
+        {
+            "hostname": "XR-3",
+            "ip": "192.168.124.13",
+            "user": "admin",
+            "pwd": "admin"
+        }
+    ]
+}

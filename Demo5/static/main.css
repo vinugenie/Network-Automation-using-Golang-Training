@@ -1,0 +1,10 @@
+.cmdForm{
+    background-color: brown;
+    border: none;
+    color: white;
+    text-align: center;
+    width: 400px;
+    height: 400px;
+    margin: 20px auto 20px auto;
+    box-shadow: 0 8px 16px 0;
+}

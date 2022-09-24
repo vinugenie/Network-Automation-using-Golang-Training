@@ -1,0 +1,17 @@
+---
+routers:
+  - hostname: "XE-1"
+    ip: "192.168.124.11"
+    lo100: "100.100.100.101"
+    user: "admin"
+    pwd: "admin"
+  - hostname: "NX-2"
+    ip: "192.168.124.12"
+    lo100: "100.100.100.102"
+    user: "admin"
+    pwd: "admin"
+  - hostname: "XR-3"
+    ip: "192.168.124.13"
+    lo100: "100.100.100.103"
+    user: "admin"
+    pwd: "admin"
